@@ -1,5 +1,5 @@
 # sign_size
- Contains code to replicate the simulations in Section 5 and the empirical application in section 6.
+ Contains code to replicate the simulations in Section 5 and the empirical application in section 6. The only required change for the code to run is to change the "path" string at the beginning for whatever the correct path is in your machine.
 
 In particular: 
 
